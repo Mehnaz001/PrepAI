@@ -200,7 +200,6 @@ export const interviewCovers = [
   "/skype.png",
   "/spotify.png",
   "/telegram.png",
-  "/tiktok.png",
   "/yahoo.png",
 ];
 
